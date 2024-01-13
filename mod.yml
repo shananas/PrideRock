@@ -1,6 +1,6 @@
 title: Pride Rock
 originalAuthor: Shananas
-description:
+game: kh2
 assets:
 - name: obj/B_EX390.mdlx
   method: copy
